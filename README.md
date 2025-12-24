@@ -1,4 +1,4 @@
-# SmilingSoul 
+# MindConnect 
 
 ## About
 A web app built to connect students with Counsellors. The app allows students to find counsellors and book available slots with them. Students can join the google meet in their booked time slot with the link provided in the app itself. Technologies used: python, flask, Mysql, jinja2.
